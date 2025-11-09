@@ -2,7 +2,7 @@
 
 A stunning, interactive 3D portfolio website built with React, Three.js, and Framer Motion. This portfolio showcases immersive web experiences with smooth animations and modern design.
 
-![Portfolio Preview](./preview.png)
+![Portfolio Preview](./public/preview.png)
 
 ## ✨ Features
 
